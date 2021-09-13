@@ -6,10 +6,10 @@ url: ''
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl: 
 
-# Title of the Site
-title: What A Theme
+# Title of the Site 
+title: Skyler Vez
 # Description of the Site
-description: A customizable Jekyll portfolio theme
+description: Software Engineer
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -18,7 +18,7 @@ site-keywords: Site, Template, Theme
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+heroimage: https://cdn.wallpapersafari.com/80/12/5dNzMj.jpg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
