@@ -10,6 +10,14 @@
                 <div class="column has-text-left-desktop has-text-left-tablet has-text-left-fullhd has-text-left-widescreen">
                     <p>{{site.author-about}}</p>
                     <br>
+                    <h3 class="has-text-left-desktop has-text-left-tablet has-text-left-fullhd has-text-left-widescreen 
+                    is-size-1 is-uppercase has-text-weight-medium"><u>Skills:</u></h3>
+                    <ul>
+                        {% for item in site.author-skills %}
+                        <li>{{item.title}}</li>
+                        {% endfor %}
+                    </ul>
+                    <br>
                     <div class="container columns is-centered">
                         <div>
                             <a href="{{site.url}}{{site.baseurl}}/#contact"
@@ -18,8 +26,8 @@
                             </a>
                         </div>
                         <div>
-                            <a href="{{site.url}}{{site.baseurl}}/blog"
-                                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined">Blog</a>
+                            <a href="{{site.url}}{{site.baseurl}}/project"
+                                class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined">Projects</a>
                             </a>
                         </div>
                     </div>
