@@ -41,7 +41,7 @@ google-analytics: UA-163806439-1
 disqus-shortname: thedevslot
 
 # Name of the Author
-author-name: TheDevsLot
+author-name: Skyler Vez
 # URL for the Image of the Author
 author-image: https://skylervez.com/image/SkylerTwo.jpg
 # 60 Words About the Author
@@ -54,7 +54,7 @@ author-skills:
   - title: <b>Databases</b> - SQLite
   - title: <b>Soft Skills</b> - Problem Solver, Communicator, Critical Thinker, Quick to Adapt
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/thedevslot
+author-url: https://www.linkedin.com/in/skylervez/
 
 # SASS
 sass:

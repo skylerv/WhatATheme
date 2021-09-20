@@ -1,5 +1,5 @@
 - name: Prodipal
-  image: "assets/images/Rex.png"
+  image: "../assets/images/Prodipal/Rex.png"
   link: "blog/Prodipal.html"
   description: Xamarin Android, C#, XML, User-Testing, Agile Scrum
 - name: Multi-Functional Dashboard
