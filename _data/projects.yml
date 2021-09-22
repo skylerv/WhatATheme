@@ -3,8 +3,8 @@
   link: "blog/Prodipal.html"
   description: Xamarin Android, C#, XML, User-Testing, Agile Scrum
 - name: Multi-Functional Dashboard
-  link: 
-  image: https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg
+  link: "blog/Multi-Functional-Dashboard.html"
+  image: "../assets/images/Multi-Functional-Dashboard/DashboardApplication.png"
   description: QT Creator, C++, Web APIs, UI Design
 - name: To-Do List
   link:
